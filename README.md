@@ -1,4 +1,4 @@
-# CemilFaruk-zcan
+# CemilFarukOzcan
 <h1 align="center">Hi 👋, I'm CemilFaruk Özcan</h1>
 <h3 align="center">Future AI Engineer and fun with front-end web developing</h3>
 
