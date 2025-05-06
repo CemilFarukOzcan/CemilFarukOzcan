@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CemilFaruk Özcan</h1>
 <h3 align="center">Future AI Engineer and fun with front-end web developing</h3>
 
-- 🔭 I’m currently working on **Artificial Engineering**
+- 🔭 I’m currently working on **.NET and Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CemilFarukOzcan?tab=repositories](https://github.com/CemilFarukOzcan?tab=repositories)
 
